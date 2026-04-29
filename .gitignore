@@ -35,3 +35,12 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### MacOS ###
+.DS_Store
+/**/.DS_Store
+
+### H2 ###
+*.db
+*.mv.db
+
